@@ -127,7 +127,9 @@ The scroll wheel is position-based. Direction is derived by comparing the curren
 Proving the stalk communications on a earlier generation 207 can be read with a esp32 & horrible hacky code.
 
 ## Whats next
+Fix Readme.md so its not a formatting mess.
 Stalk comms sent to chinese head unit via spi interface with the esp32 acting as a bridge to replace the lost RD4 stalk control functionality.
+
 
 ## Warning
 This project connects to a vehicle CAN bus. Incorrect wiring or accidental transmission can affect vehicle behaviour.
